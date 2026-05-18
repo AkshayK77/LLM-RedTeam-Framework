@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+results/
+.DS_Store
+jailbreak-bench/
+*.egg-info/
+dist/
+.ipynb_checkpoints/
