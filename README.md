@@ -1,6 +1,6 @@
 # LLM Red-Teaming & Jailbreak Detection Framework
 
-A full-stack framework for benchmarking LLM resistance to adversarial jailbreak attacks. This project extends the [OSB-Bench](https://github.com/AkshayK77/osb-jailbreak-bench) research by wrapping the original evaluation pipeline in a REST API and interactive Streamlit UI, enabling on-demand benchmarking, real-time job tracking, automatic ASR computation, and baseline comparison against published OSB-Bench results — all backed by a SQLite database and served via FastAPI.
+An end-to-end framework for benchmarking LLM resistance to adversarial jailbreak attacks. This project extends the [OSB-Bench](https://github.com/AkshayK77/osb-jailbreak-bench) research by wrapping the original evaluation pipeline in a REST API and interactive Streamlit UI, enabling on-demand benchmarking, real-time job tracking, automatic ASR computation, and baseline comparison against published OSB-Bench results — all backed by a SQLite database and served via FastAPI.
 
 ## Setup
 
