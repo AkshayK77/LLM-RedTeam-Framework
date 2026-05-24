@@ -7,3 +7,5 @@ jailbreak-bench/
 *.egg-info/
 dist/
 .ipynb_checkpoints/
+redteam.db
+results/spot_check_sample.csv
